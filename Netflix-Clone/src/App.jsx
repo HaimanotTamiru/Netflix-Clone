@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Row from './Components/Row/Row'
-import requests from './Components/APIKey/Requests'
+
 import Home from './pages/Home/Home'
 function App() {
 
