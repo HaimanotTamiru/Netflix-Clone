@@ -1,6 +1,6 @@
 .banner{
     margin-top:-10vh;
-    height:80vh;
+    height:100vh;
     margin-bottom: -80px;
     color: white;
 	object-fit: contain;
@@ -43,6 +43,7 @@
 	color: #000;
 	background-color: #c6c6c6;
 	transition: all0.2s;
+	
 }
 .banner__fadeBottom {
 	height: 40vh;
